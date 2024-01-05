@@ -59,26 +59,13 @@
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=YunMeng6364" width="auto"></img>
 
 
-    
-
-
-<div align="center">
-<summary>Trophy: Hackerrank Profile Trophy</summary>
-</div>
 
 <p align="center"> 
-
-<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
-width="30%">
 
 </p>
 
 
-
-
-
 <!-- Belarus - My Home-->
-
 
 
 #### Thanks for visiting : heart:
