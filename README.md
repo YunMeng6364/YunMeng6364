@@ -55,10 +55,6 @@
 <a href="https://skyline.github.com/YunMeng6364/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 -->
 
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=YunMeng6364" width="auto"></img>
-
-
 
 <p align="center"> 
 
