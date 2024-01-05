@@ -64,7 +64,7 @@
 <!-- Belarus - My Home-->
 
 
-#### Thanks for visiting : heart:
+#### Thanks for visiting :
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/YunMeng6364/count.svg">  
